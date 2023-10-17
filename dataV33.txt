@@ -45,13 +45,13 @@
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/Ht07B6b.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.","photo2":"https://iili.io/Ht07fne.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.","photo3":"https://iili.io/Ht07qMu.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.","photo4":"https://iili.io/Ht07qMu.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.","photo5":"https://iili.io/Ht07Ft9.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ","photod":"https://iili.io/Ht07nFj.webp"}
+  {"desc1":"The year is 2024, and the affluent community of Barvikha is preparing for the most anticipated event of the season – the Grand Gala hosted by a mysterious billionaire, Anton Vetrov. The gala promises opulence, glamour, and exclusivity",
+   "photo1":"https://iili.io/JFMXMPf.webp"},
+  {"desc2":" The venue is a breathtaking mansion nestled in the heart of Barvikha, surrounded by lush gardens and guarded by state-of-the-art security.","photo2":"https://iili.io/JFMXGMG.webp"},
+  {"desc3":"Anton Vetrov, a reclusive billionaire, is hosting the Grand Gala after years of seclusion. Rumors surround him, and the attendees are curious about the enigmatic host's intentions.","photo3":"https://iili.io/JFMX0tn.webp"},
+  {"desc4":"A select group of individuals from various backgrounds receives an exclusive invitation to the Grand Gala. Each character has a unique skill set, background, and a reason for attending – whether it be business, social climbing, or curiosity.","photo4":"https://iili.io/JFMXEns.webp"},
+  {"desc5":"As the night unfolds, guests discover that the Grand Gala is a cover for a high-stakes conspiracy. Anton Vetrov has gathered them for a specific purpose – perhaps a business deal, political maneuvering, or even the unveiling of groundbreaking technology.","photo5":"https://iili.io/JFMXWF4.webp"},
+  {"descd":"Each character harbors a secret agenda. Some may be undercover agents investigating Vetrov, others could be competitors looking to sabotage his plans, and a few may be seeking personal vendettas.","photod":"https://iili.io/JFMXXcl.webp"}
    ]
  
 }
